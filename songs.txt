@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Song1
 song2
-=======
 sad song
 sad song two
->>>>>>> sadSongs
